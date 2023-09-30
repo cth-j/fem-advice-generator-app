@@ -24,7 +24,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [https://github.com/cth-j/fem-advice-generator-app](https://github.com/cth-j/fem-advice-generator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cth-j.github.io/fem-advice-generator-app/](https://cth-j.github.io/fem-advice-generator-app/)
 
 ## Built with
 
