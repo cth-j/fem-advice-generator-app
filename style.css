@@ -107,7 +107,7 @@ body {
     box-shadow: 0 0 30px var(--clr-neon-green);
 }
 
-.button:focus {
+*:focus {
     -webkit-tap-highlight-color: transparent;
 }
 
